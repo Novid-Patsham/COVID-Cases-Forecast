@@ -9,7 +9,7 @@
 - svm LR Forecasting contain prediction made using SVM and Linear Regression. 
   - It also contains the animation for the graph : 
   
-  
+  ![](https://github.com/Novid-Patsham/COVID-Cases-Forecast/blob/master/Data/svmLR_IND.gif)
   
   - Prediction data : 
   
