@@ -15,4 +15,5 @@
   - Prediction data : 
   
   
+  
   <img src="https://github.com/Novid-Patsham/COVID-Cases-Forecast/blob/master/Data/SVM_LR.png" width="900" height="400">
